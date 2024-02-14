@@ -1,0 +1,68 @@
+body{
+   background-color: darkseagreen;
+    padding: 20px;
+    margin: 0 auto;
+
+}
+header, footer{
+    background-color: lightgreen;
+    padding: 6px;
+    text-align: center;
+}
+
+h1{
+    font-family: "Arial Black";
+    font-style: oblique;
+    text-align: center;
+}
+a:link{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:hover{
+    color: darkseagreen;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active{
+    color: darkseagreen;
+    background-color: transparent;
+    text-decoration: none;
+}
+nav{
+
+    padding: 10px;
+    background-color: lightgrey;
+
+}
+main{
+    overflow: hidden;
+}
+h2{
+    text-align: center;
+}
+section{
+    width: 60%;
+    height: 400px;
+    float: left;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: lightgray;
+    border: 1px solid #696661;
+}
+aside img{
+    width: 39%;
+    height: 400px;
+    float: right;
+    margin-top: 5px ;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: #bfff98;
+    border:1px solid #696661;
+}
